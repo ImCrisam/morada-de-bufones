@@ -1,0 +1,10 @@
+<html>
+  <head>
+    <title>This is the title of the webpage!</title>
+  </head>
+  <body>
+    <script>
+    window.location.replace("https://discord.gg/hQYV5j52Jv");
+    </script>
+  </body>
+</html>
